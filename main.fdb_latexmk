@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1732271026.58759 "main.aux" "main.bbl" "main" 1732271388.75539 0
+["bibtex main"] 1732271505.37264 "main.aux" "main.bbl" "main" 1732271505.48529 2
   "./reference.bib" 1731921197.98119 4018 e280016fc6729675f2029ad316ac4263 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "main.aux" 1732271388.47662 884 9b50e44597b28a5abb71b800f0adec83 "pdflatex"
+  "main.aux" 1732271505.37113 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1732271387.67303 "/Users/eang/Desktop/AbstractReasoningIAI/main.tex" "main.pdf" "main" 1732271388.75555 2
-  "/Users/eang/Desktop/AbstractReasoningIAI/main.tex" 1731921302.08497 688 c3b712a8cf42af095b2aa0b60d3d7896 ""
+["pdflatex"] 1732271504.01837 "/Users/eang/Desktop/AbstractReasoningIAI/main.tex" "main.pdf" "main" 1732271505.28782 2
+  "/Users/eang/Desktop/AbstractReasoningIAI/main.tex" 1732271503.77377 712 915a4fd9b1552ba98b647792dcc40b6a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -145,11 +145,11 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "config.tex" 1731918108.83229 2754 dbf2e5dd3865d7304a15a6580457b389 ""
   "logo/pku-iai-full" 0 -1 0 ""
-  "main.aux" 1732271388.47662 884 9b50e44597b28a5abb71b800f0adec83 "pdflatex"
-  "main.bbl" 1732271026.73003 275 de5ffaf5b665b622658d80bed97ba2a5 "bibtex main"
-  "main.brf" 1732271388.32778 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.out" 1732271388.47703 261 7475b9b32cc7e6a842024f1632c1b3bf "pdflatex"
-  "main.tex" 1731921302.08497 688 c3b712a8cf42af095b2aa0b60d3d7896 ""
+  "main.aux" 1732271505.37113 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.bbl" 1732271505.48391 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
+  "main.brf" 1732271504.86288 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.out" 0 -1 0 "pdflatex"
+  "main.tex" 1732271503.77377 712 915a4fd9b1552ba98b647792dcc40b6a ""
   "template22.sty" 1731918108.83289 11479 86d8724669ffda9ebfb691e1d5d797de ""
   (generated)
   "main.aux"
